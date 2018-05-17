@@ -1,0 +1,8 @@
+Ceramic Tile::5.99
+Wood Laminate::8.99
+Mahogany Hardwood::12.39
+Shag Carpet::3.99
+Epoxy sealer::2.65
+Marble::12.99
+Linoleum::2.99
+Glass tile::5.99

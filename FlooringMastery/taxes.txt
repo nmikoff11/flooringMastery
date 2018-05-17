@@ -1,0 +1,50 @@
+Alabama,5
+Alaska,6.1
+Arizona,4.5
+Arkansas,3.9
+California,6.7
+Colorado,6.2
+Connecticut,8.25
+Delaware,8.25
+Florida,3.9
+Georgia,5.5 
+Hawaii,5.5
+Idaho,5.5
+Illinois,3.9
+Indiana,5.5
+Iowa,6.2
+Kansas,3.9
+Kentucky,5.5
+Louisiana,4.25
+Maine,6.2
+Maryland,3.9
+Massachusetts,8.25
+Michigan,6.2
+Minnesota,3.9
+Mississippi,3.9
+Missouri,4.25
+Montana,6.2
+Nebraska,5.5
+Nevada,6.2
+New Hampshire,4.25
+New Jersey,6.2
+New Mexico,6.2
+New York,5.5
+North Carolina,5.5
+North Dakota,8.25
+Ohio,4.25
+Oklahoma,8.25
+Oregon,9.25
+Pennsylvania,8.00
+Rhode Island,9.25
+South Carolina,5.5
+South Dakota,9.25
+Tennessee,8.25
+Texas,8.25
+Utah,9.25
+Vermont,9.25
+Virginia,9.25
+Washington,8.25
+West Virginia,4.25
+Wisconsin,8.25
+Wyoming,8.25
