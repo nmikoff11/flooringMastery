@@ -1,1 +1,3 @@
 # flooringMastery
+
+This was our mastery project for the first portion of the training program. We designed a java MVC application that was ran on the console to mimic a flooring store computer program to calculate order costs. This was an OOP project, we did not need to connect to a database. There were files for "tax rates" and "products" and then a file to save orders for a specific date. All "quote" calculations were completed in a service layer and pushed back to the controller to display out to the console. All calculations were tested and there were several other tests to eliminate the possibilities for user error based on faulty input. 
